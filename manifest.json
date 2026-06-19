@@ -1,0 +1,28 @@
+{
+  "name": "CurateGreen — توصيل الخضر والفواكه مراكش",
+  "short_name": "CurateGreen",
+  "description": "توصيل الخضر والفواكه والمواد الغذائية الطازجة في مراكش عبر واتساب",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F7F1E6",
+  "theme_color": "#5C6B3D",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=192&q=80",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=512&q=80",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["food", "shopping", "lifestyle"]
+}
